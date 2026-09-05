@@ -1,0 +1,9 @@
+bin/
+obj/
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+.DS_Store
+*.cachefile
