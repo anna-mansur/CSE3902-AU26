@@ -2,7 +2,7 @@
 
 ## Created by: Anna Mansur
 
-Github page: [sprint0](https://github.com/anna-mansur/sprint0)
+Github page: [sprint0](https://github.com/anna-mansur/CSE3902-AU26)
 
 ## Summary
 
