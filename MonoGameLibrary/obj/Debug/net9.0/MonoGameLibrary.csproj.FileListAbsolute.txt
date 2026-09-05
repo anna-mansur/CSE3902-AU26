@@ -1,0 +1,12 @@
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/bin/Debug/net9.0/MonoGameLibrary.deps.json
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/bin/Debug/net9.0/MonoGameLibrary.dll
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/bin/Debug/net9.0/MonoGameLibrary.pdb
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.csproj.AssemblyReference.cache
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.AssemblyInfoInputs.cache
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.AssemblyInfo.cs
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.csproj.CoreCompileInputs.cache
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.dll
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/refint/MonoGameLibrary.dll
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.pdb
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/ref/MonoGameLibrary.dll
