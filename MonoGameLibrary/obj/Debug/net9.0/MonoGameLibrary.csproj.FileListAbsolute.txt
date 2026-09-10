@@ -10,3 +10,4 @@
 /Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/refint/MonoGameLibrary.dll
 /Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.pdb
 /Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/ref/MonoGameLibrary.dll
+/Users/annamansur/CSE3902 S0/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.sourcelink.json

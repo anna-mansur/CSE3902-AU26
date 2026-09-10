@@ -10,5 +10,4 @@ This program uses MonoGame framework and C# to create a 2D spy character from th
 
 ### MonoGameLibrary
 
-MonoGame library that can be reused throughout sprints. 
-
+MonoGame library that can be reused throughout sprints.
